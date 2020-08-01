@@ -20,7 +20,7 @@
       <guid>/posts/hello-world/</guid>
       <description>HELLO WORLD print(&amp;#34;hello world&amp;#34;) echo hello\ world package main import fmt func main(){ fmt.Printf(&amp;#34;hello world&amp;#34;) } and this is a vim test
 and this is a git test
-and this is a client test</description>
+and this is a client test!</description>
     </item>
     
   </channel>
