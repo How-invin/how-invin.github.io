@@ -18,7 +18,7 @@
       <pubDate>Sat, 01 Aug 2020 10:00:35 +0800</pubDate>
       
       <guid>https://how-invin.github.io/posts/hello-world/</guid>
-      <description>HELLO WORLD print(&amp;#34;hello world&amp;#34;) echo hello\ world package main import fmt func main(){ fmt.Printf(&amp;#34;hello world&amp;#34;) } </description>
+      <description>HELLO WORLD print(&amp;#34;hello world&amp;#34;) echo hello\ world package main import fmt func main(){ fmt.Printf(&amp;#34;hello world&amp;#34;) } and this is vim test</description>
     </item>
     
   </channel>
