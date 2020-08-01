@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-08-01T19:00:30+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/markdown-snippets%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2020-08-01T19:00:30+08:00</lastmod>
   </url>
@@ -13,13 +18,13 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/categories/vim/</loc>
     <lastmod>2020-08-01T19:00:30+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-08-01T10:00:35+08:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-08-01T19:00:30+08:00</lastmod>
   </url>
   
   <url>
@@ -28,18 +33,12 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-08-01T10:00:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/test/</loc>
-    <lastmod>2020-08-01T10:00:35+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/test/</loc>
     <lastmod>2020-08-01T10:00:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
