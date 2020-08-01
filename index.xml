@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;/a&gt;&lt;br /&gt;本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。</copyright>
-    <lastBuildDate>Sat, 01 Aug 2020 10:00:35 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2020 19:00:30 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Markdown Snippets笔记</title>
+      <link>/posts/markdown-snippets%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sat, 01 Aug 2020 19:00:30 +0800</pubDate>
+      
+      <guid>/posts/markdown-snippets%E7%AC%94%E8%AE%B0/</guid>
+      <description>简介 正文 网址 图片 评论 加粗 斜体 加粗斜体 代码片段 建立表格 markdown其他插件 简介 使用vim的vim-snippets插件，熟悉vim的mar</description>
+    </item>
     
     <item>
       <title>Hello World</title>
